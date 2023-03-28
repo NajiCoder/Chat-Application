@@ -1,0 +1,22 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Building a chat application with NodeJS & Socket.io ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NajiCoder/Chat-Application.git"
+  },
+  "author": "Naji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NajiCoder/Chat-Application/issues"
+  },
+  "homepage": "https://github.com/NajiCoder/Chat-Application#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
