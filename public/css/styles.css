@@ -12,3 +12,22 @@
     border: none;
     border-radius: 5rem;
 }
+
+#chat-area {
+    max-height: calc(100vh - 50px);
+    min-height: calc(100vh - 50px);
+    background-color: #7c9af2;
+}
+
+#msg-area {
+    background-color: #7c9af2;
+    border-top: 1px solid black;
+}
+
+.send-msg {
+    background-color: #7c9af2;
+    height: 100%;
+    width: 100%;
+    border: none;
+    color: black;
+}
